@@ -1,6 +1,7 @@
 # SpamClassifier
 
 Тестовая выборка
+
               precision    recall  f1-score   support
 
            0       0.95      0.98      0.96      1443
